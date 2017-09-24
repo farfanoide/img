@@ -1,0 +1,10 @@
+Dotify:      (.) someTextToWork
+Dasherize:   (-) some_text_to_work
+Underscore:  (_) some text to work
+Camelize:    (c) Some Text To Work
+Constantize: (C) some text to work
+Pascalize:   (P) some.text.to.work
+Titleize:    (t) some text to work
+Normalize:   (n) SOME_TEXT_TO_WORK
+Slashify:    (s) SOME_TEXT_TO_WORK
+Privatize:   (p) some_var
